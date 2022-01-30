@@ -1,36 +1,4 @@
-/* =================================================================== */
-/* 
-/*  Puremedia v1.0 Main Stylesheet
-/*  url:styleshout.com
-/*  10-10-2014
-/*
-/*  ------------------------------------------------------------------ 
 
-    TOC: 
-    a. Webfonts and Iconfonts
-    b. Document Setup
-    c. Forms  
-    d. Preloader
-    e. Buttons
-    f. Other Components
-    g. Header Styles
-    h. Content Styles
-    i. Footer Styles
-    j. Common and shared styles
-    k. Hero Section
-    l. Portfolio Section
-    m. Services Section
-    n. About Section
-    o. Journal Section
-    p. Contact Section
-    q. Blog Entry
-    r. Portfolio Entry
-
-/* =================================================================== */
-
-/* 
-/* a. Webfonts and Iconfonts
-/* =================================================================== */
 @import url("fonts.css");
 @import url("font-awesome/css/font-awesome.min.css");
 @import url("simple-line-icons/simple-line-icons.css");
@@ -817,14 +785,14 @@ header .logo {
 }
 header .logo a {
 	display: block;
-	margin: 10px;
+	margin: -28px;
 	padding: 0;
 	border: none;
 	outline: none;
 	font: 0/0 a;
 	text-shadow: none;
 	color: transparent;
-	width: 90px;
+	width: 80px;
 	height:100px;
 	background-repeat: no-repeat;
 	background-position: 0 0;
