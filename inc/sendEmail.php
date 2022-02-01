@@ -1,6 +1,6 @@
 ﻿<?php
 
-$siteOwnersEmail = 'mstc_vitbhopal@hotmail.com';
+$siteOwnersEmail = 'info@mstcvitbhopal.live';
 
 
 if($_POST) {
