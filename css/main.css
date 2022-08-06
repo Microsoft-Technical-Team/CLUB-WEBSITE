@@ -1913,7 +1913,7 @@ hr {
 /* =================================================================== */
 
 #contact {
-    background: #040406;
+    background: #f4f4f7;
     padding-top: 120px;
     padding-bottom: 102px;
     overflow: hidden;
@@ -1924,7 +1924,9 @@ hr {
 }
 
 #contact h1 {
-    color: white;
+    color: rgb(7, 7, 7);
+    font-family: "Comic Sans MS";
+    font-size: 150%;
 }
 
 
@@ -1937,7 +1939,7 @@ hr {
 
 #contact label {
     font: 14px/30px "raleway-heavy", sans-serif;
-    color: #d6dae3;
+    color: #0b0b0b;
     display: none;
 }
 
